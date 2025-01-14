@@ -1,0 +1,4 @@
+baseURL = 'https://zines.dakotaraine.xyz/'
+languageCode = 'en-us'
+title = 'Zines@DakotaRaine.xyz'
+theme = 'ananke'
