@@ -12,7 +12,7 @@ title = '14 Ways to Spot Fascism'
 ##### [Video instructions for printing/assembling zine](https://www.tiktok.com/@decolonizationcoven/video/7443304260529360171) _*(see 1:23 timestamp)_
 
 ### The Inspiration
-This contents of this zine are based on the work by Dr. Lawrence Britt, ["The 14 Characteristics of Fascism"](https://ratical.org/ratville/CAH/fasci14chars.html) _(first published under the title **"Fascism Anyone?"** in the Spring 2003 issue **Free Inquiry** magazine, p.20)_.
+The contents of this zine are based on the work by Dr. Lawrence Britt, ["The 14 Characteristics of Fascism"](https://ratical.org/ratville/CAH/fasci14chars.html) _(first published under the title **"Fascism Anyone?"** in the Spring 2003 issue **Free Inquiry** magazine, p.20)_.
 
 My goal was to provide a contextually relevant interpretation of Dr. Britt's work to aid folks within the imperial core _(especially the United States)_ to recognize the various elements of fascism at work in their everyday lives.
 
